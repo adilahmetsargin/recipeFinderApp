@@ -3,6 +3,8 @@
 A modern, responsive recipe search application built with **React + TypeScript + TheMealDB API**.  
 Find delicious recipes, view details, and save your favorites!
 
+🌐 Live Demo: https://aasrecipefinderapp.netlify.app/
+
 ---
 
 ## 🚀 Features
@@ -27,5 +29,26 @@ Find delicious recipes, view details, and save your favorites!
 
 ---
 
-## 🗂 Folder Structure
+## 💡 Future Improvements
 
+Add filters by cuisine type or diet
+
+Implement dark mode
+
+Allow users to add custom recipes
+
+Add pagination and lazy loading for better performance
+
+## 🏷️ Tags
+
+**react typescript axios framer-motion recipe-app frontend-project portfolio**
+
+## 📬 Contact
+
+👨‍💻 Adil Ahmet Sargin
+
+📍 Rochester Hills, MI, USA
+
+🔗 https://github.com/adilahmetsargin
+
+🔗 https://www.linkedin.com/in/adilahmetsargin/
