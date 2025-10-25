@@ -1,0 +1,22 @@
+.header {
+  background: var(--color-primary);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+  box-shadow: 0 2px 4px var(--color-shadow);
+}
+
+.logo {
+  font-weight: 600;
+}
+
+nav a {
+  margin-left: 1rem;
+  font-weight: 500;
+  color: var(--color-text);
+}
+
+nav a.active {
+  color: var(--color-accent);
+}
